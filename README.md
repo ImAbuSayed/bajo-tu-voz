@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bajo-tu-voz/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Bajo tu voz](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bajo-tu-voz/) |
+| **Get License** | [Request Licensing for Bajo tu voz](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bajo-tu-voz/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bajo tu voz, nena, me haces flipar
+> Esta noche en Madrid no la quiero acabar
+> Dime qué me hiciste, pura seducción
+> Bailando pegados, perdiendo el control
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
