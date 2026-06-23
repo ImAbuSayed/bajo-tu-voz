@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bajo tu voz
+
+This log tracks the cryptographic history and versioning for the song **Bajo tu voz** (bajo-tu-voz).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T13:24:29.566776 | `v1` | `8d84cab1f6db5fe544478db1199805acf9fb253dfdff3e4eb05ddef025b20f82` | `2d481e8d94cf4a742d6b51e1c3b2440257b1e78a82bf6cfa0bcf203d8f75fab9` | `2026-06-23_bajo-tu-voz-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
